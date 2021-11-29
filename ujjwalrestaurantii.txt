@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>DIVYANSH restaurant app</title>
+    <link rel="stylesheet" href="ur8.css">
+</head>
+<body id="vb" >
+<h1 id="sd">The Ujjwal restaurant</h1>
+<p id="hi"></p><br>
+<p id="op"></p><br>
+<p id="jk"></p><br>
+
+<p id="cv"></p>
+<script src="ur1.js"></script>
+<h3 id="bc"><marquee>Here are our menus! see below</marquee></h3>
+<ol  id="xo" type="1">
+    <li>pizza<ul><li>tamato pizza</li><li>mango pizza</li></ul></li>
+    <li>burger</li>
+    <li>maggie</li>
+    <li>bread</li>
+    <li>juice</li>
+</ol>
+<script src="ur2.js"></script>
+<p id="gh"></p>
+
+<script src="ur3.js"></script>
+<p id="rt"></p>
+<h3 id="lx"><marquee direction="right">see the price of the menus!</marquee></h3>
+<a   id="lz" href="jon.html">see the price by tapping here</a>
+<p id="nb"></p>
+<script src="ur4.js"></script>
+<p id="yu"></p>
+<script src="ur5.js"></script>
+<img src="https://i.pinimg.com/originals/15/3f/1c/153f1c8ccdc8f13e14747213f9fe561f.jpg" alt="sad" width="60" height="60">
+<p id="zm">take a look we also give surprise if you buy greater than 1 lac.. </p>
+<p id="xi"></p>
+<script src="ur6.js"></script>
+<h3 id="mq">lets fill your details</h3>
+<form>
+    <h3>enter your date:</h3><input type="text" id="tj"><br>
+    <h3> enter your time :</h3><input type="text" id="kp"><br>
+    <h3>enter your address:</h3><input type="" id="do"><br><br>
+
+</form>
+<h1>gift game! play it and win a prize</h1>
+<a href="bn.html"><p id="ak">see the rule of this game from here..</p></a>
+<select id="zl">
+    <option id="myOption" value="maggi">maggie</option>
+    <option id="aw" value="burger">burger</option>
+    <option id="df" value="pizza">pizza</option>
+    <option id="zx" value="juice">juice</option>
+</select>
+<p id="sa"></p>
+<button onclick="myFunction()"><p id="er">magic button</p></button><br>
+<button onclick="myFunction1()"><p id="eh">magic button</p></button><br>
+<button onclick="myFunction2()"><p id="wn">magic button</p></button><br>
+<button onclick="myFunction3()"><p id="wm">magic button</p></button><br>
+
+<script src="ur7.js"></script><br><br>
+<p id="gm">
+    now if both are same then fill  your address below we will send you our special gift</p><br><br>
+<form>
+    <p id="cg">enter your address:</p> <input type="address" id="ql">
+</form>
+<p id="wk">if you want to order more recipe then you can order from here also</p>
+<form>
+    <p id="sk">enter the name of recipe:</p><input type="text" id="hx"><br>
+    <p id="qv">enter the quantity of recipe:</p><input type="number" id="sm">
+
+</form><br>
+<h3 id="vk">these are our prize winner people</h3>
+<table style="width:100%" >
+    <tr id="rm">
+        <th>Firstname</th>
+        <th>Lastname</th>
+        <th>Age</th>
+    </tr>
+    <tr>
+        <td id="y1">priyanka </td>
+        <td id="y2">chopra</td>
+        <td id="y3">35</td>
+    </tr>
+    <tr>
+        <td id="y4">jacqueline</td>
+        <td id="y5">fernandez</td>
+        <td id="y6">28</td>
+    </tr>
+    <tr>
+        <td id="y7">katrina</td>
+        <td id="y8">kaif</td>
+        <td id="y9">34</td>
+    </tr>
+</table>
+<br>
+<a href="sim.html"></a>
+<br>
+<p id="ma">Next time when you visit on our site you must have userid or password so we can know  that you are my regular customer</p>
+<form action="/action_page.php">
+    <label for="username"><h4>Username:</h4></label><br>
+    <input type="text" id="username" name="username"><br>
+    <label for="pwd"><h4>Password:</h4></label><br>
+    <input type="password" id="pwd" name="pwd"><br><br>
+    <input type="submit" value="Submit">
+</form>
+<h2 id="qm">please visit again..</h2>
+<table>
+
+</table>
+</body>
+</html>

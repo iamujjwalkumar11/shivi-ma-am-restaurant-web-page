@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>ujjwal hotel</title>
+    <style>
+        body {
+            background-image: url('');
+            background-size: auto;
+            text-align: center;
+
+        }
+        p {
+            font-size: larger;
+            font-family: "poppins", sans-serif;
+        }
+        #myvideo {
+            position: fixed;
+            right:0;
+            bottom:0;
+            min-width:100%;
+            min-height:40%;
+        }
+        #ml{
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+<video autoplay muted loop id="myvideo">
+    <source src="food.mp4" type="video/mp4">
+    not supportbn
+
+
+</video>
+
+<br>
+<p id="kd"></p>
+<script src="ur9.js"></script>
+<marquee dir="ltr">
+    <h1 >25 for pizza</h1>
+    <h1> 35 for burger</h1>
+    <h1>88 for bread</h1>
+    <h1>34 for juice</h1>
+    <h1>90 for maggie</h1>
+</marquee>
+<br>
+<h1>.<marquee>..............thank you...................</marquee></h1>
+</body>

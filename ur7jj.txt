@@ -1,0 +1,17 @@
+function myFunction() {
+    var x = document.getElementById("myOption").text;
+    document.getElementById("sa").innerHTML = x;
+}
+
+function myFunction1() {
+    var y = document.getElementById("aw").text;
+    document.getElementById("sa").innerHTML = y;
+}
+function myFunction2() {
+    var z = document.getElementById("df").text;
+    document.getElementById("sa").innerHTML = z;
+}
+function myFunction3() {
+    var w = document.getElementById("zx").text;
+    document.getElementById("sa").innerHTML = w;
+}

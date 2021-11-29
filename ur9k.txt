@@ -1,0 +1,6 @@
+const arr=[" cheesy pizza"," fried burger","butter with bread","fresh juice"," hot maggie"];
+let text=" ";
+for(let x of arr){
+    text+=x+ "<br>";
+}
+document.getElementById("kd").innerHTML=text;

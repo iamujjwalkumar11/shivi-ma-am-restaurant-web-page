@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>gidt game</title>
+    <style>
+        body {
+            background-image: url('https://www.visitcornwall.com/sites/default/files/product_image/the_cove_resturant_.jpg');
+            background-size: auto;
+            text-align: center;
+
+        }
+        h1 {
+            font-family: 'Montserrat', sans-serif;
+            font-size: larger;
+            text-decoration-color: #24ff10;
+            text-overline-color:#24ff10;
+        }
+        marquee {
+            color:#003652;
+        }
+    </style>
+</head>
+<body>
+<marquee direction="right" >******************************************</marquee><br><br>
+<marquee direction="left">******************************************</marquee><br><br>
+<marquee direction="right">******************************************</marquee><br><br>
+<marquee direction="left">******************************************</marquee><br><br>
+<br><br><br><br><br><br><br><br><br>
+<p id="34">welcome </p>
+<p id="67">DIVYANSH'S GAME RULE</p>
+<p id="89">dear customer</p>
+<p id="sop"></p>
+<script>
+    const my=document.getElementById("67");
+    document.getElementById("sop").innerHTML="WELCOME TO "+my.innerHTML;
+</script>
+
+<h1 id="demo" onmouseover="mouseOver()" onmouseout="mouseOut()">look at here once</h1>
+<script>
+    function mouseOver() {
+        document.getElementById("demo").style.color = "green";
+    }
+
+    function mouseOut() {
+        document.getElementById("demo").style.color = "red";
+    }
+</script>
+<h1>in this you have to select anyone 1 recipe which is in option <br> after that there is many button out of many you have to select anyone button and <br> whatever will come in your button will match to your selected recipe then you win and yo get a prize.</h1>
+<br><br>
+<marquee>
+    **********************************************************
+</marquee>
+<marquee direction="right">******************************************</marquee><br><br>
+<marquee direction="left">******************************************</marquee><br><br>
+<marquee direction="right">******************************************</marquee><br><br>
+</body>
+</html>

@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>picture of foods</title>
+  <style>
+    body {
+      background-image: url('pri.jpg');
+      background-size: auto;
+      text-align: center;
+    }
+    marquee {
+        color: #ffff00;
+    }
+  </style>
+</head>
+<body>
+<marquee direction="down">*****************************</marquee><br>
+<marquee direction="down">*****************************</marquee>
+<marquee direction="down">*****************************</marquee><br>
+<marquee direction="down">*****************************</marquee>
+<marquee direction="down">*****************************</marquee>
+
+<br>
+<h1>OUR SPECIAL TREAT FOR SPECIAL PEOPLE</h1>
+<br><br>
+<h1>
+    This is secret...
+</h1>
+
+<marquee direction="up">*****************************</marquee><br>
+<marquee direction="up">*****************************</marquee>
+<marquee direction="up">*****************************</marquee><br>
+<marquee direction="up">*****************************</marquee>
+<marquee direction="up">*****************************</marquee><br>
+<marquee direction="up">*****************************</marquee>
+<marquee direction="up">*****************************</marquee><br>
+<marquee direction="up">*****************************</marquee>
+<marquee direction="up">*****************************</marquee><br>
+<marquee direction="up">*****************************</marquee>
+<marquee direction="up">*****************************</marquee><br>
+<marquee direction="up">*****************************</marquee>
+<marquee direction="up">*****************************</marquee><br>
+<marquee direction="down">*****************************</marquee>
+<marquee direction="down">*****************************</marquee><br>
+<marquee direction="up">*****************************</marquee><br>
+<marquee direction="up">*****************************</marquee>
+<marquee direction="right">*****************************</marquee><br>
+<marquee direction="right">*****************************</marquee>
+<marquee direction="right">*****************************</marquee><br>
+<marquee direction="right">*****************************</marquee>
+<marquee direction="left" >*****************************</marquee><br>
+<marquee direction="left">*****************************</marquee>
+<marquee direction="left">*****************************</marquee><br>
+<marquee direction="left">*****************************</marquee>
+<marquee direction="up">*****************************</marquee><br>
+<marquee direction="up">*****************************</marquee>
+
+</body>
+</html>

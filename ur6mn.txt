@@ -1,0 +1,7 @@
+const surprise = [{gold:"gold-malabar",carrat:"carrat-24",warranty:"warranty-25 year"},{car:"car-suzuki",model:"model-45x",milege:"milege-45/km"},{cloth:"cloth-by manish malhotra",no:"no-3 ",size:"size-free"}];
+displaysurprise();
+function displaysurprise(){
+    document.getElementById("xi").innerHTML=surprise[0].gold+" "+surprise[0].carrat+" "+surprise[0].warranty+"<br>"+
+        surprise[1].car+" "+surprise[1].model+" "+surprise[1].milege+"<br>"+
+        surprise[2].cloth+" "+surprise[2].no+" "+surprise[2].size;
+}

@@ -1,0 +1,7 @@
+let check = prompt("enter your  exactly budget", "");
+if (check >= 10) {
+    // document.getElementById("op").value = money;
+    document.getElementById("nb").innerHTML="as your budget is greater  than 10 rupee so you got discount of 10 rupee and the total money you have to pay now is "+":"+myFunction(check);
+} else {
+    document.getElementById("nb").innerHTML=myFunction(2);
+}

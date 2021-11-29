@@ -1,0 +1,20 @@
+var customerName = prompt("Please enter your name", "");
+if (customerName!= null) {
+    document.getElementById("hi").value = customerName;
+}
+document.getElementById("hi").innerHTML= "your name"+":"+customerName;
+
+
+let money = prompt("enter the money you can afford to buy anything here", "");
+if (money == 11) {
+    // document.getElementById("op").value = money;
+    document.getElementById("op").innerHTML= "your afford money"+":"+money;
+}else if(money >= 100) {
+    document.getElementById("op").innerHTML=" as your money afford is greater than 100 so  you will get offer as well as some prize"+":"+money;
+} else {
+    document.getElementById("op").innerHTML="so sorry your money afford is very low"+":"+money;
+}
+ur2
+
+
+document.getElementById("jk").innerHTML="WELCOME TEACHERS";

@@ -1,0 +1,7 @@
+function myFunction(p1) {
+    if(p1>10){
+        return p1 -10 + "rupee";
+    }else {
+        return "sorry we can't give you discount coz you are buying less than 10 rupee!";
+    }
+}

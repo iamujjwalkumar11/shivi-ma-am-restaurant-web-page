@@ -1,0 +1,145 @@
+#sd {
+    text-align:center;
+    text-decoration-color:#55dd55;
+    background-color:#003652;
+}
+#vb {
+    background-image: url("https://wallpapercave.com/wp/wp1874156.jpg");
+}
+#hi {
+    text-decoration-color: #55dd55;
+    font-family: sans-serif;
+    font-size: large;
+    color: #55dd55;
+}
+#op ,#jk {
+    font-family: sans-serif;
+    font-size: large;
+    color: #ffff00;
+}
+#cv ,#gh {
+    font-family: sans-serif;
+    font-size: large;
+    color: #ffff00;
+
+}
+#xo {
+    font-family: sans-serif;
+    font-size: large;
+    color: #55dd55;
+
+}
+#bc ,#lx {
+    font-family: 'Poppins', sans-serif;
+    font-size: large;
+    color: #55dd55;
+}
+#lz {
+    font-family: "Kruti Dev 062 ";
+    font-size: large;
+    color: #55dd55;
+}
+#nb {
+    font-family: 'Open Sans', sans-serif;
+    font-size: larger;
+    color: orangered;
+    text-align: center;
+}
+#yu {
+    font-family: "Adobe Caslon Pro Bold";
+    font-size: large;
+    color: orangered;
+}
+#zm {
+    font-family: "Adobe Caslon Pro Bold";
+    font-size: large;
+    color: orangered;
+}
+#xi {
+    font-family: 'Montserrat', sans-serif;
+    font-size: large;
+    color: #097C9B;
+    font-style: italic;
+}
+#mq ,#ak{
+    font-family: "Adobe Caslon Pro Bold";
+    font-size: large;
+    color: #097C9B;
+    font-style: italic;
+}
+#gm ,#ma{
+    font-family: "Adobe Caslon Pro";
+    font-size: large;
+    color: #dd5566;
+    font-style: normal;
+}
+#qm {
+    font-size: larger;
+    font-family: 'Montserrat', sans-serif;
+    color: #24ff10;
+    font-style: revert;
+    text-align: center;
+}
+#ql ,#username,#pwd{
+    background-color: darkgreen;
+}
+#wk {
+    font-family: "Adobe Caslon Pro";
+    font-size: large;
+    color:#b54507;
+    font-style: normal;
+}
+#sk,#qv {
+    font-family: "Adobe Caslon Pro";
+    font-size: large;
+    color:#00ffff;
+    font-style: normal;
+}
+#hx,#sm {
+    background-color: greenyellow;
+}
+#cg {
+    font-family: "Adobe Caslon Pro";
+    font-size: large;
+    color: #dd5566;
+    font-style: normal;
+}
+#zl {
+    background-color: navy;
+}
+#er,#eh,#wn,#wm {
+    background-color: yellowgreen;
+}
+#vk {
+    font-family: "Adobe Caslon Pro";
+    font-size: large;
+    color:#55dd55;
+    font-style: normal;
+}
+#rm {
+    font-family: "Adobe Caslon Pro";
+    font-size: large;
+    color: #dd5566;
+    font-style: normal;
+}
+#tj,#kp,#do {
+    background-color:cyan;
+}
+#y1,#y4,#y7 {
+    font-family: "Adobe Caslon Pro";
+    font-size: large;
+    color:#d65108;
+    font-style: normal;
+}
+#y3,#y6,#y9 {
+    font-family: "Adobe Caslon Pro";
+    font-size: large;
+    color:#508052;
+    font-style: normal;
+}
+#y2,#y5,#y8 {
+    font-family: "Adobe Caslon Pro";
+    font-size: large;
+    color:#f0f0f0;
+    font-style: normal;
+}
